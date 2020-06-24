@@ -1,0 +1,7 @@
+1. 下载 firefox      https://www.mozilla.org/zh-CN/firefox/new/?redirect_source=firefox-com
+2. 下载  python3     https://wwa.lanzous.com/ibzdwe04ckf
+3. 下载 you-get      https://wwa.lanzous.com/ixh9Me052zg
+
+4. 安装 you-get     python setup.py install
+
+
